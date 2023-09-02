@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Daniel and I am a software engineer and educator.
+
+I've spent the last three years teaching introductory web development skills, through non-profit development courses, in traditional and non-traditional tech environments, to promote interdisciplinary solutions while strengthening existing and complementary skills.
+
+<img align="right" src="assets/DanielSegarraHeadshot(circleCrop).png">
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3NXYBG)
 
 <!--
